@@ -15,7 +15,7 @@ IMPORTANT! `run.cfg` needs to have a filepath not any commands, it is not a bash
 ### .minecraft\start.bat
 `echo %*`
 ### Output
-`{"username":"Elektroney","playerID":"player ID","token":"JWT Token"}`\
+`{"username":"Elektroney","playerID":"player ID","token":"JWT Token (SessionID)"}`\
 <br>
 Note that the the batch files UI is never displayed in this example, you would need to create a seperate process to create a visible UI
 
