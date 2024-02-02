@@ -1,6 +1,6 @@
 ﻿# Minecraft Session Passthrough
 ## Overview
-This project provides a custom client to enable Session Passthrough, in form of arguments being passed to another executable. This feature allows developers to go outside the bounds of java, to programm a Minecraft client that can connect to servers, enabling many possibilitys.
+This project provides a custom client for Session Passthrough, in form of arguments being passed to another executable. This feature allows developers to go outside the bounds of java, to programm a Minecraft client that can connect to servers, enabling many possibilitys.
 
 ## Installation
 
