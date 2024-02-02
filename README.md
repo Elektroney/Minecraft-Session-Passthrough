@@ -20,5 +20,7 @@ Given the following files we achieve the output below:
 <br>
 Note that the the batch files UI is never displayed in this example, you would need to create a seperate process to create a visible UI
 
+## Support Me and This Project
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/leonkraim)
 
 
