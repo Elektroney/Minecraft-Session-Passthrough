@@ -10,6 +10,7 @@ This project provides a custom client for Session Passthrough, in form of argume
 Upon running the minecraft client, the client will try running the filepath to an executable given by `run.cfg` in the `.minecraft` folder.\
 IMPORTANT! `run.cfg` needs to have a filepath not any commands, it is not a bash / batch script!
 ## Example
+Given the following files we achieve the output below:
 ### .minecraft\run.cfg
 `.\start.bat`
 ### .minecraft\start.bat
