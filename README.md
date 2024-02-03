@@ -5,7 +5,9 @@ This project provides a custom client for Session Passthrough, in form of argume
 ## Installation
 
 1. Download the Release file from the repository.
-2. Run `install.bat`. This will automatically do all necessary Steps needed.
+2. Run `install.bat`.
+3. Select the new version under `Installations` press `New Installation` and select `Session Passthrough`.
+4. Select your installion on the left side on the `Play` Tab.
 ## Usage
 Upon running the minecraft client, the client will try running the filepath to an executable given by `run.cfg` in the `.minecraft` folder.\
 IMPORTANT! `run.cfg` needs to have a filepath not any commands, it is not a bash / batch script!
